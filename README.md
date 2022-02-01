@@ -1,4 +1,6 @@
-# Design Patterns
+# Design Architecture
+
+## Patterns
 
 Muitos [padrões de projeto](https://pt.wikipedia.org/wiki/Padr%C3%A3o_de_projeto_de_software)
 servem para realizar determinados tipos de implementações.
@@ -31,13 +33,15 @@ Os autores desse livro,
 [John Vlissides](https://pt.wikipedia.org/wiki/John_Vlissides),
 são conhecidos como a "Gangue dos Quatro" (Gang of Four) ou simplesmente "GoF".
 
-Essa gangue criou 23 padrões divididos em 3 partes:
+## Design Architecture
 
-Padrões de criação: Abstract Factoring, Factory Method, Builder, Prototype, Singleton e etc.
+Alguns outros nomes muito conhecidos também, são:
 
-Padrões de estrutura: Adapter, Composite, Flyweight, Proxing, Facade e etc.
-
-Padrões de comportamento: Chain of Responsability, Interpreter, State, Strategy, Visitor, Observer, Mediator e etc.
+- [Bertrand Meyer](https://en.wikipedia.org/wiki/Bertrand_Meyer): criador do CQS (Command Query Separation);
+- [Greg Young](https://cqrs.files.wordpress.com/2010/11/cqrs_documents.pdf): criador do CQRS (Command Query Responsibility Segregation);
+- [Eric Evans](https://en.wikipedia.org/wiki/Domain-driven_design): criador do DDD;
+- [Martin Fawler](https://martinfowler.com/): criador de vários _patterns_ e livros;
+- [Robert Cecil Martin ou Uncle Bob](https://martinfowler.com/): criador do Clean Architecture e vários livros.
 
 ## Comandos iniciais
 
